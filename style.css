@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+.images__wrapper {
+    max-width: 700px;
+}
+
+
+.btn {
+    background-color: green;
+    border: none;
+    padding: 6rem 6rem;
+    cursor: pointer;
+}
+
+#output__score {
+    padding: 24px 0;
+}
