@@ -14,7 +14,7 @@ button.addEventListener('click', function(e) {
    } else if (x === 2) {
     flip("pig")
    }  else {
-    flip("owl")
+    flip("owl") // insert pic instead of "owl" maybe
    }
 
 })
